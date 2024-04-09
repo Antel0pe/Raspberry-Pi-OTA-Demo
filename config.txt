@@ -1,0 +1,9 @@
+arm_64bit=1
+cmdline=startup.txt
+device_tree=bcm2711-rpi-4-b.dtb
+#enable_jtag_gpio=1
+enable_uart=1
+force_turbo=1
+gpu_mem=16
+max_framebuffers=2
+kernel=u-boot.bin
