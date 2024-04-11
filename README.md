@@ -9,6 +9,6 @@ Our team researched various approaches to perform an integration of the QNX oper
 
 **Tutorial**
 
-To Watch a Tutorial of this Project see the following link: ADD LINK
+To Watch a Tutorial of this Project see the following link: [ADD LINK](https://www.youtube.com/watch?v=b2t9bmDXT34)
 
 To read a Tutorial of this Project, please see the PDF document in this repository entitled: "Update RP4 Over-The-Air (OTA) Using QNX" Report
