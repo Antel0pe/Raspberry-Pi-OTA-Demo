@@ -1,5 +1,7 @@
 # Raspberry-Pi-OTA-Demo
 
+For a full report, please see the PDF document in this repository entitled: "Updating a Raspberry Pi Over The Air (OTA) Using QNX"
+
 **Abstract & Introduction**
 
 This project presents an innovative Over-the-Air (OTA) software updating solution utilizing the QNX real-time operating system (RTOS) and the Raspberry Pi platform. In today's rapidly evolving technological landscape, ensuring that connected devices remain updated with the latest software versions is paramount for security, performance, and feature enhancements especially in remote locations. Traditional methods of software updating often require manual intervention, which can be cumbersome and time-consuming. Leveraging the robust capabilities of QNX and the flexibility of the Raspberry Pi, this project aims to streamline the software updating process by enabling remote updates over the air.
@@ -11,4 +13,4 @@ Our team researched various approaches to perform an integration of the QNX oper
 
 To Watch a Tutorial of this Project see the following link: https://www.youtube.com/watch?v=b2t9bmDXT34
 
-To read a Tutorial of this Project, please see the PDF document in this repository entitled: "Updating a Raspberry Pi Over The Air (OTA) Using QNX" Report
+To read a Tutorial of this Project, please see the PDF document in this repository entitled: "Technical Tutorial Manual - Updating a Raspberry Pi Over The Air (OTA) Using QNX"
